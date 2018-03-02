@@ -1,0 +1,10 @@
+{
+    "plugins": [
+      "transform-react-pug",
+      "transform-react-jsx",
+      "transform-object-rest-spread"
+    ],
+    "presets": [
+      "env", "react"
+    ]
+  }
